@@ -1,0 +1,13 @@
+/*
+Autor: Raul Madrid Hernan
+Empresa: CICE
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {font-family: sans-serif;}
+ul{list-style: none;}
+a{text-decoration: none;}
